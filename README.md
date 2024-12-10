@@ -1,4 +1,4 @@
-# Viegroup.online
+# Viegroup.my.id
 
 VieGroup adalah perusahaan yang memiliki dua lini bisnis utama, yaitu VieDryclean dan ViePastry. Kami berkomitmen untuk memberikan layanan berkualitas tinggi dan produk berkualitas premium kepada pelanggan kami di dua bidang yang berbeda: layanan cuci sepatu profesional dan penjualan pastry yang lezat.
 
@@ -15,8 +15,8 @@ VieGroup adalah perusahaan yang memiliki dua lini bisnis utama, yaitu VieDryclea
 ## Fitur
 - [x] Fitur 1: Home Page.
 - [x] Fitur 2: VieDryclean.
-- [x] Fitur 3: ViePastry.
-- [x] Fitur 4: Portfolio.
+- [x] Fitur 3: VieBakery.
+- [x] Fitur 4: VieCatalogs (InProgress).
 
 Dengan fitur-fitur ini, website dapat memberikan pengalaman pengguna yang lebih lengkap dan interaktif serta meningkatkan kemudahan akses layanan VieGroup.
 
@@ -141,11 +141,11 @@ wordpress
 ```
 
  ## Preview
-![Screenshot (133)](https://github.com/user-attachments/assets/b63bcb52-493a-4b98-9391-77386e203fcd)
- 
-![Screenshot (134)](https://github.com/user-attachments/assets/4fa904de-e521-4d8e-88ce-4e29e4ada7a9)
-
-![Screenshot (135)](https://github.com/user-attachments/assets/5b9ebb0a-a403-42f9-99be-e628260fb08e)
-
-
-![Screenshot (136)](https://github.com/user-attachments/assets/495681d3-d418-4cc5-b1eb-8f2effb57f09)
+![Screenshot (154)](https://github.com/user-attachments/assets/1823a5a0-99ff-4402-aa5b-7c01d3b43204)
+![Screenshot (153)](https://github.com/user-attachments/assets/38b79a48-88ef-40f2-b347-e74b889acd54)
+![Screenshot 2024-12-10 145457](https://github.com/user-attachments/assets/32766b60-bca7-4d84-8aff-cced5afc919a)
+![Screenshot 2024-12-10 145449](https://github.com/user-attachments/assets/2adaa31d-6de0-408c-a184-18f237af9d85)
+![Screenshot 2024-12-10 145427](https://github.com/user-attachments/assets/20fd5aa9-2252-43a7-8e40-2a8dd635b6d5)
+![Screenshot 2024-12-10 145413](https://github.com/user-attachments/assets/b003dc6e-e523-4f0b-87e8-4e25c8780af4)
+![Screenshot 2024-12-10 145312](https://github.com/user-attachments/assets/acdbb04a-803b-4618-9b85-e42cd1984a50)
+![Screenshot 2024-12-10 145259](https://github.com/user-attachments/assets/e352df62-03ef-43ab-be3e-0e99815e9aab)
