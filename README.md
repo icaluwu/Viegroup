@@ -23,7 +23,7 @@ Dengan fitur-fitur ini, website dapat memberikan pengalaman pengguna yang lebih 
 ## Persyaratan Sistem
 - **Web Server:** Apache2
 - **Bahasa Pemrograman:** PHP 8+, HTML5, MySQL
-- **Dependensi Utama:** Git, Hostinger
+- **Dependensi Utama:** Git, Niagahosting
 - **Lingkungan Pengembangan:** Alibaba Console
 
 ## Instalasi
