@@ -141,8 +141,6 @@ wordpress
 ```
 
  ## Preview
-![Screenshot (154)](https://github.com/user-attachments/assets/1823a5a0-99ff-4402-aa5b-7c01d3b43204)
-![Screenshot (153)](https://github.com/user-attachments/assets/38b79a48-88ef-40f2-b347-e74b889acd54)
 ![Screenshot 2024-12-10 145457](https://github.com/user-attachments/assets/32766b60-bca7-4d84-8aff-cced5afc919a)
 ![Screenshot 2024-12-10 145449](https://github.com/user-attachments/assets/2adaa31d-6de0-408c-a184-18f237af9d85)
 ![Screenshot 2024-12-10 145427](https://github.com/user-attachments/assets/20fd5aa9-2252-43a7-8e40-2a8dd635b6d5)
